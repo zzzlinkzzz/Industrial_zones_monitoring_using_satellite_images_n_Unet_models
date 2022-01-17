@@ -36,7 +36,7 @@ Tham số huấn luyện:
 
 <p align="center">
 <img src="./img/train_process.png" width="800"/>
-</20
+</p>
 
 ```bash
 python train.py -e 60 -b 1 -l 4e-4
@@ -59,5 +59,5 @@ Kết quả tốt nhất:
 </p>
 
 <p align="center">
-image------------------------------------------label------------------------------------------predict
+image---------------------------------label---------------------------------predict
 </p>
