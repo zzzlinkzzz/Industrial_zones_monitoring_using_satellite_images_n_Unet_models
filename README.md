@@ -4,6 +4,10 @@
 <img src="./img/UNET_architecture.png" width="400"/>
 </p>
 
+### Yêu cầu:
+
+Sử dụng kĩ thuật Image Semantic Segmentation phân lớp ảnh vệ tinh và so sánh với bản vẽ để đánh giá tiến độ xây dựng KCN.
+
 ### Nguồn dữ liệu:
 
 Các mảnh bản đồ Gmap có kích thước 256x256
