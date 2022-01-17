@@ -31,12 +31,12 @@ Augmentation: Vertical flip, Horizontal flip, Random rotate
 Tham số huấn luyện:
 * Batch_size: 1 – Bước tích lũy: 128 => ~ Batch_size 128 
 * Loss: CrossEntropyLoss - Optimizer : Adam
-* Learning rate giảm 10% sau mỗi 10 epochs
+* Learning rate giảm sau mỗi 10 epochs từ epoch 30
 * Metrics: IoU
 
 <p align="center">
 <img src="./img/train_process.png" width="800"/>
-</p>
+</20
 
 ```bash
 python train.py -e 60 -b 1 -l 4e-4
